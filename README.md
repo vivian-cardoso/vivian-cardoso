@@ -5,8 +5,8 @@
 <div>
   <a href="https://github.com/vivian-cardoso">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vivian-cardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="90em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vivian-cardoso&layout=compact&langs_acount=16&theme=dracula"/>
-  <div>
+  <img height="85em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vivian-cardoso&layout=compact&langs_acount=16&theme=dracula"/>
+<div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Vivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
