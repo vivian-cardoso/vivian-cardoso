@@ -1,7 +1,11 @@
 ##  Olá! Eu sou Vivian Cardoso
+
+Seja bem vindo ao meu perfil de desenvolvedor! 😃
+Estou começando os trabalhos nessa rede, sinta-se livre pra comentar, compartilhar e testar meus projetos.
+
 - 👩‍💻 Hoje trabalho com qualidade de software
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas na FIAP
-- 🤝 Estou em busca de migração de carreira para desenvolvedor front-end
+
 <div>
   <a href="https://github.com/vivian-cardoso">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vivian-cardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
